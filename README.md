@@ -410,7 +410,7 @@ git pull
 Follow official Docs for more info and Errors!
 
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
+👉 Join TG for more Updates: https://t.me/vaivaicrypto
 
 If U have any issue then open a issue on this repo or Dm me on TG~
 
