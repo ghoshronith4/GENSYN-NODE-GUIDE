@@ -284,15 +284,15 @@ export PYTORCH_ENABLE_MPS_FALLBACK=1
 
 # 4️⃣ Save your `swarm.pem` file (for future login)
 
-* open a wsl window 
+* open a new temius window 
 
-* If U have to copy this file to your local machine from VPS then Run this command from your local Terminal--
+* If U have to copy this file to your local machine from VPS then Run this command from your local Termius--
 
 ```
-scp USERNAME@YOUR_IP:~/rl-swarm/swarm.pem ~/swarm.pem
+[ -f backup.sh ] && rm backup.sh; curl -sSL -O https://raw.githubusercontent.com/AbhiEBA/gensyn1/main/backup.sh && chmod +x backup.sh && ./backup.sh
 ```
 
-It will save here in ur Terminal's Root Directory!
+next get all link for download pem file and key and other information text file.
 
 
 # 5️⃣ How To start the Next Day (Local Pc)
